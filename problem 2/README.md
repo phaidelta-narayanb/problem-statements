@@ -2,6 +2,8 @@
 
 This dataset comprises daily minimum temperatures recorded in Melbourne, Australia, over a 10-year period.
 
+[Data source](https://www.kaggle.com/datasets/vipullrathod/daily-min-temperatures)
+
 ## Statement
 
 You're given a CSV dataset `daily-min-temperatures.csv` with two columns: Date and Temp, between 1981-01-01 till 1990-12-31 and temperature in °C.
